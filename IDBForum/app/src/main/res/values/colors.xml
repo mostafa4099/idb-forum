@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#63b484</color>
+    <color name="colorPrimaryDark">#52a473</color>
+    <color name="colorAccent">#3e6632</color>
+    <color name="colorBorder">#e8e8e8</color>
+    <color name="transparent">#00000000</color>
+    <color name="list_item_bg">#ffffff</color>
+    <color name="view_divider_color">#BABABA</color>
+</resources>
